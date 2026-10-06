@@ -1,8 +1,8 @@
 # Hi, I'm Muhammad Azeem 👋
 
-**Python & Computer Science Teacher** · **Android App Developer** · Gujranwala, Pakistan
+**Teacher** · **Android App Developer** · Gujranwala, Pakistan
 
-I teach Python to young students online and Computer Science at ICS level. I build simple, practical Android apps that help my students learn — and help teachers work faster.
+I teach Python and Computer Science, and I build simple, practical Android apps that help students learn — and help teachers work faster.
 
 ## 🚀 My Apps
 
