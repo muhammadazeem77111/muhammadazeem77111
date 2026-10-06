@@ -1,8 +1,18 @@
 # Hi, I'm Muhammad Azeem 👋
 
-**Teacher** · **Android App Developer** · Gujranwala, Pakistan
+**Teacher** · **Android & Web App Developer** · Gujranwala, Pakistan
 
-I teach Python and Computer Science, and I build simple, practical Android apps that help students learn — and help teachers work faster.
+I teach Python and Computer Science, and I build simple, practical apps — for my students, for teachers, and for clients.
+
+## 💼 Services — Work With Me
+
+I offer my services to anyone who needs:
+
+- 📱 **Custom Android apps** — any kind of app: for your business, school, shop, or personal idea. From concept to a ready-to-install app.
+- 🌐 **Web apps** — clean, simple web applications built around your needs.
+- 🎓 **Online learning** — want to learn programming online? I offer online classes in Python and Computer Science for students of all levels.
+
+**Interested? Contact me here on GitHub** — open an issue on this profile repository or reach out through any of my project pages, and let's discuss your idea.
 
 ## 🚀 My Apps
 
@@ -16,17 +26,17 @@ A few of the apps I have built — more are on the way:
 
 ## 🛠️ I Work With
 
-`Python` · `Kotlin` · `Jetpack Compose` · `Android Studio` · `Firebase` · `Google AI Studio`
+`Python` · `Kotlin` · `Jetpack Compose` · `Android Studio` · `Web Development` · `Firebase` · `Google AI Studio`
 
 ## 🌱 Currently
 
 - Improving **PyLab** with new learning features for my students
 - Preparing **PaperCraft** for release
-- Teaching Python — one student, one program at a time
+- Building apps for clients and teaching online
 
 ## 📫 Reach Me
 
-Through my repositories here on GitHub.
+Here on GitHub — for app development projects and online learning, just reach out.
 
 ---
 *Simple tools, honest teaching.*
