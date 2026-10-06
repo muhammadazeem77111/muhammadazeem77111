@@ -6,6 +6,8 @@ I teach Python and Computer Science, and I build simple, practical Android apps 
 
 ## 🚀 My Apps
 
+A few of the apps I have built — more are on the way:
+
 | App | What it does |
 |---|---|
 | **[PyLab](https://github.com/muhammadazeem77111/pylab-releases/releases)** | A beginner-friendly Python IDE for Android — students write, run, and practice Python on their phones, with lessons, examples, and exercises built in. |
