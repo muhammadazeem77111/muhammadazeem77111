@@ -23,6 +23,7 @@ A few of the apps I have built — more are on the way:
 | **[PyLab](https://github.com/muhammadazeem77111/pylab-releases/releases)** | A beginner-friendly Python IDE for Android — students write, run, and practice Python on their phones, with lessons, examples, and exercises built in. |
 | **PaperCraft** | A paper-generation app for teachers — build board-pattern test papers (MCQs, short & long questions) from a question bank and export print-ready papers. |
 | **Expense & Loan Tracker** | A personal finance app to track expenses, budgets, and loans with repayments and reports. |
+| **ScanKaro** | A document scanner app — scan pages with automatic edge detection, extract text with OCR, and save clean PDFs in a secure library. |
 
 ## 🛠️ I Work With
 
