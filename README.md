@@ -24,6 +24,7 @@ A few of the apps I have built — more are on the way:
 | **PaperCraft** | A paper-generation app for teachers — build board-pattern test papers (MCQs, short & long questions) from a question bank and export print-ready papers. |
 | **Expense & Loan Tracker** | A personal finance app to track expenses, budgets, and loans with repayments and reports. |
 | **ScanKaro** | A document scanner app — scan pages with automatic edge detection, extract text with OCR, and save clean PDFs in a secure library. |
+| **MarkKaro** | A paper-marking app for teachers — check a whole class of student papers on-device: scan or import papers and student-sent PDFs, check MCQs against your own answer key, and approve every mark yourself. Free, with no cloud uploads. |
 
 ## 🛠️ I Work With
 
